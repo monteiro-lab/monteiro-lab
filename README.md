@@ -1,5 +1,5 @@
 <!-- README.md | GitHub Profile: monteiro-lab -->
-<!-- Feather icons below are loaded through Iconify so they keep the Feather style with color accents. -->
+<!-- Feather icons are loaded through Icongram to keep the Feather style with color accents. -->
 
 <div align="center">
 
@@ -7,9 +7,12 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=23&duration=2800&pause=800&color=22D3EE&center=true&vCenter=true&width=980&lines=Building+real-world+solutions+with+Python;Flask+%7C+Django+%7C+Streamlit+%7C+APIs+%7C+Dashboards;AI+with+LangChain%2C+OpenAI%2C+RAG+and+Supabase;Automation%2C+PDFs%2C+Data+Pipelines+and+Web+Apps)](https://git.io/typing-svg)
+<img
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2400&pause=900&color=22D3EE&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=150&lines=%24+whoami;Arthur+Monteiro+%2F%2F+Python+Developer;%24+mission;turning+messy+workflows+into+clean+software;%24+building;AI+systems+%7C+dashboards+%7C+automation+%7C+PDF+tools;%24+stack;Flask+%7C+Django+%7C+Streamlit+%7C+Docker+%7C+Supabase"
+  alt="Terminal Typing SVG"
+/>
 
-<br/>
+<br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=monteiro-lab&style=for-the-badge&color=06B6D4&label=PROFILE+VIEWS" />
 <img src="https://img.shields.io/github/followers/monteiro-lab?style=for-the-badge&color=3B82F6&label=FOLLOWERS" />
@@ -36,56 +39,59 @@
 
 ---
 
-## <img width="20" align="center" src="https://api.iconify.design/feather:user.svg?color=%2322d3ee" /> About Me
+## <img width="20" align="center" src="https://icongr.am/feather/user.svg?size=20&color=22d3ee" /> About Me
 
-I am **Arthur Monteiro**, a Python-oriented developer focused on turning operational problems into elegant, reliable, and scalable digital products.
+I build software for the kind of problems that usually live inside spreadsheets, repetitive workflows, scattered documents, and manual business processes.
 
-My work combines **backend engineering**, **data automation**, **interactive dashboards**, **document processing**, **AI-powered workflows**, **API integrations**, **database-driven systems**, and **modern user interfaces**.
+My work is centered around **Python**, with a strong focus on **automation**, **data products**, **AI-assisted systems**, **dashboards**, **PDF/document workflows**, and **backend applications** that are practical enough to be used outside a demo environment.
 
-I enjoy building tools that are not only technically solid, but also useful, polished, and ready to solve real business problems.
+I like building tools that feel simple on the surface, but solve complex problems underneath: collecting data, processing files, integrating APIs, generating reports, connecting databases, and turning operational chaos into clean digital workflows.
+
+Most of my projects come from a simple idea:  
+**good software should save time, reduce friction, and make decisions easier.**
 
 ---
 
-## <img width="20" align="center" src="https://api.iconify.design/feather:cpu.svg?color=%2360a5fa" /> Core Engineering Focus
+## <img width="20" align="center" src="https://icongr.am/feather/cpu.svg?size=20&color=60a5fa" /> Engineering Focus
 
 <table>
   <tr>
     <td width="50%">
       <h3>
-        <img width="18" align="center" src="https://api.iconify.design/feather:server.svg?color=%233b82f6" />
-        Backend Systems
+        <img width="18" align="center" src="https://icongr.am/feather/server.svg?size=18&color=3b82f6" />
+        Backend that does the heavy lifting
       </h3>
       <p>
-        Building structured Python applications with Flask, Django, SQLAlchemy, Alembic, REST APIs, authentication flows, background jobs, and production-ready deployment patterns.
+        I use Python to build web systems, APIs, authentication flows, background jobs, database models, and services that are designed to be useful, maintainable, and ready to evolve.
       </p>
     </td>
     <td width="50%">
       <h3>
-        <img width="18" align="center" src="https://api.iconify.design/feather:bar-chart-2.svg?color=%238b5cf6" />
-        Data Products
+        <img width="18" align="center" src="https://icongr.am/feather/bar-chart-2.svg?size=18&color=8b5cf6" />
+        Data tools people can actually use
       </h3>
       <p>
-        Creating dashboards, analytical tools, and spreadsheet workflows using Pandas, Streamlit, Plotly, Chart.js, CSV/XLSX processing, and automated reporting.
+        I turn CSVs, Excel files, APIs, and raw information into dashboards, reports, interactive charts, and workflows that make data easier to understand and act on.
       </p>
     </td>
   </tr>
   <tr>
     <td width="50%">
       <h3>
-        <img width="18" align="center" src="https://api.iconify.design/feather:zap.svg?color=%23f59e0b" />
-        AI Automation
+        <img width="18" align="center" src="https://icongr.am/feather/zap.svg?size=18&color=f59e0b" />
+        AI where it makes sense
       </h3>
       <p>
-        Designing AI-enhanced systems with LangChain, OpenAI, RAG pipelines, embeddings, pgvector, Supabase, and workflow automation through tools such as n8n.
+        I work with LLMs, RAG pipelines, embeddings, vector databases, and automation flows to make AI useful inside real applications, not just as a chatbot layer.
       </p>
     </td>
     <td width="50%">
       <h3>
-        <img width="18" align="center" src="https://api.iconify.design/feather:file-text.svg?color=%2310b981" />
-        Document Engineering
+        <img width="18" align="center" src="https://icongr.am/feather/file-text.svg?size=18&color=10b981" />
+        Document and workflow automation
       </h3>
       <p>
-        Developing PDF and document automation tools with PyMuPDF, pypdf, ReportLab, pdf.js, fabric.js, TinyMCE, and desktop interfaces using CustomTkinter.
+        I build tools for PDFs, reports, document editing, extraction, merging, file processing, and repetitive office tasks that should not depend on manual work.
       </p>
     </td>
   </tr>
@@ -93,7 +99,7 @@ I enjoy building tools that are not only technically solid, but also useful, pol
 
 ---
 
-## <img width="20" align="center" src="https://api.iconify.design/feather:layers.svg?color=%23a78bfa" /> Tech Stack
+## <img width="20" align="center" src="https://icongr.am/feather/layers.svg?size=20&color=a78bfa" /> Tech Stack
 
 <div align="center">
 
@@ -123,7 +129,7 @@ I enjoy building tools that are not only technically solid, but also useful, pol
 
 ---
 
-## <img width="20" align="center" src="https://api.iconify.design/feather:activity.svg?color=%23f472b6" /> Stack DNA
+## <img width="20" align="center" src="https://icongr.am/feather/activity.svg?size=20&color=f472b6" /> Stack DNA
 
 <div align="center">
 
@@ -146,17 +152,17 @@ I enjoy building tools that are not only technically solid, but also useful, pol
 
 ---
 
-## <img width="20" align="center" src="https://api.iconify.design/feather:star.svg?color=%23f59e0b" /> Featured Projects
+## <img width="20" align="center" src="https://icongr.am/feather/star.svg?size=20&color=f59e0b" /> Featured Projects
 
 <table>
   <tr>
     <td width="50%">
       <h3>
-        <img width="18" align="center" src="https://api.iconify.design/feather:calendar.svg?color=%23f59e0b" />
+        <img width="18" align="center" src="https://icongr.am/feather/calendar.svg?size=18&color=f59e0b" />
         CalendAI PRO
       </h3>
       <p>
-        AI-powered scheduling platform built with Flask, LangChain, OpenAI, Supabase/PostgreSQL, Google OAuth, and Google Calendar API.
+        A scheduling system that brings AI into calendar workflows, combining Flask, LangChain, OpenAI, Supabase/PostgreSQL, Google OAuth, and Google Calendar API to make appointment management smarter and less manual.
       </p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
@@ -170,11 +176,11 @@ I enjoy building tools that are not only technically solid, but also useful, pol
     </td>
     <td width="50%">
       <h3>
-        <img width="18" align="center" src="https://api.iconify.design/feather:message-square.svg?color=%23ec4899" />
+        <img width="18" align="center" src="https://icongr.am/feather/message-square.svg?size=18&color=ec4899" />
         Ouvidoria MG
       </h3>
       <p>
-        Corporate ombudsman platform with Google Workspace authentication, Supabase, RAG pipeline, pgvector, n8n, and AI assistance.
+        A corporate ombudsman platform built around authentication, structured data, AI search, and RAG. It connects Supabase, pgvector, OpenAI, n8n, and Docker to help transform internal knowledge into searchable, actionable answers.
       </p>
       <p>
         <img src="https://img.shields.io/badge/RAG-AI%20Search-06B6D4?style=flat-square"/>
@@ -190,11 +196,11 @@ I enjoy building tools that are not only technically solid, but also useful, pol
   <tr>
     <td width="50%">
       <h3>
-        <img width="18" align="center" src="https://api.iconify.design/feather:trending-up.svg?color=%2322d3ee" />
+        <img width="18" align="center" src="https://icongr.am/feather/trending-up.svg?size=18&color=22d3ee" />
         Dollar Tracker
       </h3>
       <p>
-        Flask dashboard for USD/BRL exchange rate monitoring, historical storage, scheduled updates, statistical analysis, and interactive charts.
+        A Flask dashboard for tracking USD/BRL exchange rates with historical storage, scheduled updates, statistical analysis, and interactive charts, turning financial data into a clean monitoring experience.
       </p>
       <p>
         <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
@@ -207,11 +213,11 @@ I enjoy building tools that are not only technically solid, but also useful, pol
     </td>
     <td width="50%">
       <h3>
-        <img width="18" align="center" src="https://api.iconify.design/feather:database.svg?color=%2310b981" />
+        <img width="18" align="center" src="https://icongr.am/feather/database.svg?size=18&color=10b981" />
         DataFlow
       </h3>
       <p>
-        Streamlit application for cleaning, transforming, analyzing, and exporting CSV/XLSX spreadsheets with dynamic metrics and charts.
+        A Streamlit data tool for cleaning, transforming, analyzing, and exporting CSV/XLSX files. Built for the kind of spreadsheet work that is common, repetitive, and perfect for automation.
       </p>
       <p>
         <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
@@ -226,11 +232,11 @@ I enjoy building tools that are not only technically solid, but also useful, pol
   <tr>
     <td width="50%">
       <h3>
-        <img width="18" align="center" src="https://api.iconify.design/feather:file.svg?color=%23a78bfa" />
+        <img width="18" align="center" src="https://icongr.am/feather/file.svg?size=18&color=a78bfa" />
         Cotidiano PDF Studio
       </h3>
       <p>
-        Desktop application for PDF editing, merging, text extraction, page extraction, and visual document manipulation.
+        A desktop PDF productivity tool built with Python, focused on editing, merging, extracting text, selecting pages, and handling everyday document operations through a cleaner interface.
       </p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
@@ -243,11 +249,11 @@ I enjoy building tools that are not only technically solid, but also useful, pol
     </td>
     <td width="50%">
       <h3>
-        <img width="18" align="center" src="https://api.iconify.design/feather:grid.svg?color=%23fb7185" />
+        <img width="18" align="center" src="https://icongr.am/feather/grid.svg?size=18&color=fb7185" />
         FiscalPro
       </h3>
       <p>
-        Django-based fiscal analysis platform for ICMS calculations, Excel uploads, interactive analytics, reports, and cloud deployment.
+        A Django-based fiscal analysis platform for ICMS calculations, Excel uploads, interactive analytics, and report generation, built to simplify technical fiscal workflows through software.
       </p>
       <p>
         <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/>
@@ -262,7 +268,7 @@ I enjoy building tools that are not only technically solid, but also useful, pol
 
 ---
 
-## <img width="20" align="center" src="https://api.iconify.design/feather:archive.svg?color=%2334d399" /> Project Labs
+## <img width="20" align="center" src="https://icongr.am/feather/archive.svg?size=20&color=34d399" /> Project Labs
 
 | Project | Technical Focus | Stack |
 |---|---|---|
@@ -274,7 +280,7 @@ I enjoy building tools that are not only technically solid, but also useful, pol
 
 ---
 
-## <img width="20" align="center" src="https://api.iconify.design/feather:git-branch.svg?color=%23818cf8" /> Engineering Map
+## <img width="20" align="center" src="https://icongr.am/feather/git-branch.svg?size=20&color=818cf8" /> Engineering Map
 
 ```mermaid
 mindmap
@@ -321,23 +327,22 @@ mindmap
 
 ---
 
-## <img width="20" align="center" src="https://api.iconify.design/feather:terminal.svg?color=%232dd4bf" /> What I Build
+## <img width="20" align="center" src="https://icongr.am/feather/terminal.svg?size=20&color=2dd4bf" /> What I Build
 
 ```txt
 ╭──────────────────────────────────────────────────────────────╮
-│  Python web applications                                     │
-│  AI-powered workflows and RAG systems                        │
-│  Data dashboards and business intelligence tools             │
-│  Spreadsheet automation and analytical pipelines             │
-│  PDF processing and document productivity platforms          │
-│  API integrations and cloud-connected applications           │
-│  Desktop tools for operational efficiency                    │
+│  Software for repetitive, messy, high-friction workflows      │
+│  Python backends that connect data, APIs, files, and users    │
+│  Dashboards that make business data easier to understand      │
+│  AI systems that retrieve, summarize, and automate work       │
+│  PDF and document tools for real productivity problems        │
+│  Internal tools that replace manual processes                 │
 ╰──────────────────────────────────────────────────────────────╯
 ```
 
 ---
 
-## <img width="20" align="center" src="https://api.iconify.design/feather:tool.svg?color=%230ea5e9" /> Tools and Platforms
+## <img width="20" align="center" src="https://icongr.am/feather/tool.svg?size=20&color=0ea5e9" /> Tools and Platforms
 
 <div align="center">
 
@@ -374,7 +379,7 @@ mindmap
 
 ---
 
-## <img width="20" align="center" src="https://api.iconify.design/feather:award.svg?color=%23facc15" /> GitHub Trophies
+## <img width="20" align="center" src="https://icongr.am/feather/award.svg?size=20&color=facc15" /> GitHub Trophies
 
 <div align="center">
 
@@ -384,19 +389,22 @@ mindmap
 
 ---
 
-## <img width="20" align="center" src="https://api.iconify.design/feather:code.svg?color=%2310b981" /> Development Philosophy
+## <img width="20" align="center" src="https://icongr.am/feather/code.svg?size=20&color=10b981" /> Development Philosophy
 
 ```txt
-Clean code. Useful interfaces. Reliable automation.
-Data-driven decisions. AI where it adds real value.
-Products that solve problems, not just repositories that store code.
+I care about software that is useful before it is flashy.
+
+Clean interfaces matter.
+Reliable automation matters.
+Readable code matters.
+Shipping tools that people can actually use matters even more.
 ```
 
 ---
 
 <div align="center">
 
-### `build real solutions • automate workflows • transform data into intelligence`
+### `building practical software for automation, data, documents, and AI workflows`
 
 <br/>
 
